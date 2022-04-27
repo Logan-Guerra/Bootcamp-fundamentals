@@ -1,4 +1,4 @@
-# Coding Dojo - AXSOS Academy
+# Coding Dojo 
 
 <img width="200" alt=" " src="https://user-images.githubusercontent.com/76398557/131226947-00f96d01-6b3a-43ea-9a74-be32e04781ac.png">
 
